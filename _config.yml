@@ -1,9 +1,9 @@
 # Site settings
 title: PHOTORAMA
-email: ""
+email: a1364533187@126.com
 description: "Photo Journal"
-url: "http://sunbliss.github.io"
-baseurl: "/photorama"
+url: "http://a1364533187.github.io"
+baseurl: "/photoType"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   BigCow
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
